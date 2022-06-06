@@ -10,3 +10,6 @@ function buttonfuction2(url){
 function buttonfuction3(url){
     document.getElementById("myframe").src=url;
 }
+function buttonfuction4(url){
+    document.getElementById("myframe").src=url;
+}
